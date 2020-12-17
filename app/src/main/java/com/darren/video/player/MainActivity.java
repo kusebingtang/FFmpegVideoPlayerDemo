@@ -11,7 +11,7 @@ import com.darren.media.DZVideoView;
 import java.io.File;
 
 public class MainActivity extends AppCompatActivity {
-    private File mVideoFile = new File(Environment.getExternalStorageDirectory(), "BaiduNetdisk/01.mp4");
+    private File mVideoFile = new File(Environment.getExternalStorageDirectory(), "BaiduNetdisk/02.mp4");
     private DZVideoView mVideoView;
 
     @Override
