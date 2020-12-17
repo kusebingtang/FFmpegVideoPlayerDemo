@@ -1,0 +1,10 @@
+# ninja log v5
+6	47	1608173464	CMakeFiles/video-player.dir/src/main/cpp/DZVideo.cpp.o	b278977bf82c2639
+5	52	1608173464	CMakeFiles/video-player.dir/src/main/cpp/DZPlayerStatus.cpp.o	ac3770fb492ce366
+3	122	1608173464	CMakeFiles/video-player.dir/src/main/cpp/DZJNICall.cpp.o	d7031891ebc4827b
+47	927	1608173464	CMakeFiles/video-player.dir/src/main/cpp/native-lib.cpp.o	3c77352c697a41ee
+52	952	1608173464	CMakeFiles/video-player.dir/src/main/cpp/video-player.cpp.o	91ab71f8b4d4567b
+1	958	1608173464	CMakeFiles/video-player.dir/src/main/cpp/DZFFmpeg.cpp.o	69f403fa66004d3d
+0	961	1608173464	CMakeFiles/video-player.dir/src/main/cpp/DZAudio.cpp.o	7fbd99db2e66b725
+4	1033	1608173465	CMakeFiles/video-player.dir/src/main/cpp/DZPacketQueue.cpp.o	6df71083324848d4
+1033	1127	1608173465	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libvideo-player.so	d8f779b6a67c8f0
